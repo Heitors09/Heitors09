@@ -1,14 +1,17 @@
+
+
+
 ## Welcome! 👋😁
 
-✨ Hello! I'm Heitor, a front-end student from Brazil.
+#### ✨ Hello! I'm Heitor, a front-end student from Brazil.
   
-📚 I'm currently learning Next.js.
+#### 📚 I'm currently learning Next.js.
 
-💼 I'm excited to land my first job opportunity!
+#### 💼 I'm excited to land my first job opportunity!
 
 ![Heitors09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical)
 
-Feel free to explore my projects and contributions!
+##### Feel free to explore my projects and contributions!
 
 ## Technologies I am familiar with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
