@@ -5,7 +5,7 @@
 
 #### ✨ Hello! I'm Heitor, a front-end developer from Brazil.
   
-#### 📚 Currently developing mainly with React and Next.js.
+#### 💻 Currently developing mainly with React and Next.js.
 
 
 ![Heitors09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical)
