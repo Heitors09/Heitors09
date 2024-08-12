@@ -3,11 +3,10 @@
 
 ## Welcome! 👋😁
 
-#### ✨ Hello! I'm Heitor, a front-end student from Brazil.
+#### ✨ Hello! I'm Heitor, a front-end developer from Brazil.
   
-#### 📚 I'm currently learning Next.js.
+#### 📚 Currently developing mainly with React and Next.js.
 
-#### 💼 I'm excited to land my first job opportunity!
 
 ![Heitors09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical)
 
