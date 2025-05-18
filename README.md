@@ -52,7 +52,7 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJkZ2J0YXd2Mm40ZGhkaW5yZGtwdWNqb2JnMWNxOWd5NXFvY2ZlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="100%" height="500" alt="Desenvolvedor Front-end">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJkZ2J0YXd2Mm40ZGhkaW5yZGtwdWNqb2JnMWNxOWd5NXFvY2ZlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="100%" height="400" alt="Desenvolvedor Front-end">
 </div>
 <div align="center">
   <sub>⭐ Construído com ❤️ por Heitor</sub>
