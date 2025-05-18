@@ -1,25 +1,27 @@
-<div >
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJkZ2J0YXd2Mm40ZGhkaW5yZGtwdWNqb2JnMWNxOWd5NXFvY2ZlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="600" alt="Desenvolvedor Front-end">
-</div>
-
 # Heitor | Desenvolvedor Front-end 
 
   
-> ***"O tempo é teu capital; tens de o saber utilizar. Perder tempo é estragar a vida."***
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-alves1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorao32@gmail.com)
+> ***O tempo é teu capital; tens de o saber utilizar. Perder tempo é estragar a vida.***
   
 </div>
 
 ## 🚀 Sobre Mim
 
 Olá! Me chamo **Heitor**, sou um desenvolvedor apaixonado e especializado em **front-end**. Busco constantemente criar interfaces elegantes, responsivas e com excelente experiência de usuário.
-
 Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo aplicações modernas e performáticas.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-alves1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorao32@gmail.com)
+
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJkZ2J0YXd2Mm40ZGhkaW5yZGtwdWNqb2JnMWNxOWd5NXFvY2ZlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="100%" height="300" alt="Desenvolvedor Front-end">
+</div>
 
 ## 💻 Tech Stack
 
+<div align="center">
 
 ### Principais Tecnologias
 
@@ -45,11 +47,9 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 
 ## 📊 GitHub Stats
 
-<div >
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitors09&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 </div>
 
 ## 🌱 Atualmente Estudando
@@ -57,7 +57,8 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 - 📚 Node.js Fundamentals
 - 🔄 Next.js avançado 
 
+---
 
-
-
-
+<div align="center">
+  <sub>⭐ Construído com ❤️ por Heitor</sub>
+</div>
