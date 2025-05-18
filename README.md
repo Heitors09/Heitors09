@@ -18,7 +18,6 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 
 ## 💻 Tech Stack
 
-<div align="center">
 
 ### Principais Tecnologias
 
@@ -36,12 +35,7 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitors09&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ## 🌱 Atualmente Estudando
 
