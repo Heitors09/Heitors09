@@ -13,10 +13,8 @@
 ## 🚀 Sobre Mim
 
 
-Olá! Me chamo **Heitor**, sou um desenvolvedor apaixonado e especializado em **front-end**. 
-
+Olá! Me chamo **Heitor**, sou um desenvolvedor apaixonado e especializado em **front-end** 
 Busco constantemente criar interfaces elegantes, responsivas e com excelente experiência de usuário.
-
 Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo aplicações modernas e performáticas.
 
 <div align="left">
