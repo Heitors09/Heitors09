@@ -1,18 +1,18 @@
 
 
 
-## *"Conviction can achieve anything."*
+## *"O tempo é teu capital; tens de o saber utilizar. Perder tempo é estragar a vida."*
 
-#### ✨ Hello! I'm Heitor, a front-end developer from Brazil.
+#### ✨ Olá! me chamo Heitor, sou desenvolvedor especializado em front-end.
   
-#### ✔ Currently developing mainly with React and Next.js.
+#### ✔ Atualmente desenvolvendo principalmente com React e Next.js.
 
 
 ![Heitors09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitors09&show_icons=true&theme=radical)
 
-#### Feel free to explore my projects and contributions!
+#### Sinta-se à vontade para explorar meus projetos e contribuições !
 
-## Technologies I am familiar with:
+## Tecnologias com as quais estou familiarizado:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
