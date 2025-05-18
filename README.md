@@ -12,7 +12,6 @@
 
 ## 🚀 Sobre Mim
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 Olá! Me chamo **Heitor**, sou um desenvolvedor apaixonado e especializado em **front-end**. 
 
