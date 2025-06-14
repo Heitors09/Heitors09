@@ -1,15 +1,3 @@
-<div align="center">
-  
-# Heitor | Desenvolvedor Front-end 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
-
-<blockquote>
-<p align="center"><em>O tempo é teu capital; tens de o saber utilizar. Perder tempo é estragar a vida.</em></p>
-</blockquote>
-
-</div>
-
 ## 🚀 Sobre Mim
 
 
