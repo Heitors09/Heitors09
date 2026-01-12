@@ -10,7 +10,6 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-alves1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorao32@gmail.com)
 
-Meu porfólio: https://portfolio-heitor-online-six.vercel.app/
   
 </div>
 
