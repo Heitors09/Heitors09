@@ -14,4 +14,3 @@ Atualmente, foco meu desenvolvimento em **React** e **Next.js**, construindo apl
   
 </div>
 
-Meu portfólio: https://heitor-alves.vercel.app/
